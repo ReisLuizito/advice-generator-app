@@ -5,13 +5,6 @@ Advice generator generate random quotes of advice.
 
 ![design](src/images/desktop-design.jpg)
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Built with](#built-with)
-  - [Author](#author)
-
 ## Overview
 
 ### The challenge
